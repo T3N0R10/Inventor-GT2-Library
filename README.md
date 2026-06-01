@@ -89,12 +89,12 @@ If these files save you several hours of XML editing, then the project achieved 
 
 ### Belt Selection
 
-![Belt Selection](Screenshots/belt_selection.jpg)
+![Belt Selection](Screenshots/belt_selection.png)
 
 ### Generated 20T Pulley
 
-![20T Pulley](Screenshots/pulley_20t.jpg)
+![20T Pulley](Screenshots/pulley_20t.png)
 
 ### Assembly Example
 
-![Assembly](Screenshots/assembly.jpg)
+![Assembly](Screenshots/assembly.png)
